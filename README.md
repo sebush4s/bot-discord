@@ -29,6 +29,11 @@ Zmień nazwę pliku .env-example na .env i wprowadź tam swój token bota
 > Teraz możesz uruchomić bota
 
 ```shell
+$ npm run dev
+```
+
+> Jeśli chcesz żeby bot działał 24/7, użyj polecenia:
+```shell
 $ npm start
 ```
 
