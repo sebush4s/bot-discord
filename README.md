@@ -34,15 +34,12 @@ $ npm start
 
 ---
 
----
-
 ## TODO :boom:
 - [X] Utworzenie Discorda projektu
 - [ ] Połączenie z bazą danych
 - [ ] Dodanie panelu bota
 ---
 
----
 
 ## FAQ
 
@@ -51,7 +48,6 @@ $ npm start
 
 ---
 
----
 
 ## Team
 Jeśli też chcesz się tu pojawić, dodaj do kodu coś od siebie!
