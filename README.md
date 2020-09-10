@@ -41,7 +41,8 @@ $ npm start
 
 ## TODO :boom:
 - [X] Utworzenie Discorda projektu
-- [ ] Połączenie z bazą danych
+- [X] Połączenie z bazą danych
+- [ ] Dokończenie wszystkich komend
 - [ ] Dodanie panelu bota
 ---
 
