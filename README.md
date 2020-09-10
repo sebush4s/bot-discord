@@ -58,7 +58,14 @@ $ npm start
 ## Team
 Jeśli też chcesz się tu pojawić, dodaj do kodu coś od siebie!
 
-<table> <tr align="center"> <td> <a href="https://github.com/PolandBOX"><img src="https://avatars3.githubusercontent.com/u/51416083?s=460&u=81fbe9c66d6f3798141d7c8f336c21b623e17324&v=4" width="64" height="64" alt="Hasanoes" valign=“middle”/></a> </td> </tr> <tr> <th><a href="https://github.com/PolandBOX">Boxi</a></th> </tr> </table>
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/PolandBOX"><img src="https://avatars3.githubusercontent.com/u/51416083?s=460&u=81fbe9c66d6f3798141d7c8f336c21b623e17324&v=4" width="100px;" alt=""/><br /><sub><b>Boxi</b></sub></a><br />
+      </td>
+    <td align="center"><a href="https://github.com/jahs000/"><img src="https://avatars2.githubusercontent.com/u/65360316?s=460&u=bea19b5253757ddc82089a3ae223a9b96c946766&v=4" width="100px;" alt=""/><br /><sub><b>jahs000</b></sub></a><br />
+      </td>
+  </tr>
+</table>
 
 ---
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/PolandBOX/)
