@@ -24,7 +24,7 @@ $ git clone https://github.com/PolandBOX/bot-reklamowy.git
 $ npm i
 ```
 
-Zmień ustawienia w pliku .env
+Zmień nazwę pliku .env-example na .env i wprowadź tam swój token bota
 
 > Teraz możesz uruchomić bota
 
