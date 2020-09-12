@@ -64,6 +64,9 @@ Jeśli też chcesz się tu pojawić, dodaj do kodu coś od siebie!
       </td>
     <td align="center"><a href="https://github.com/jahs000/"><img src="https://avatars2.githubusercontent.com/u/65360316?s=460&u=bea19b5253757ddc82089a3ae223a9b96c946766&v=4" width="100px;" alt=""/><br /><sub><b>jahs000</b></sub></a><br />
       </td>
+     <td align="center"><a href="https://github.com/FerisXD/"><img src="https://avatars0.githubusercontent.com/u/63854116?s=400&u=15ff75737ccbfc474fae47d93d5dae5e6211b934&v=4" width="100px;" alt=""/><br /><sub><b>FerisXD</b></sub></a><br />
+
+
   </tr>
 </table>
 
